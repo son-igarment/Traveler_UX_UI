@@ -1,7 +1,9 @@
 {
-  "name": "travel_app",
+  "name": "traveler_ux_ui_sonplnason",
   "version": "0.1.0",
   "private": true,
+  "author": "Phạm Lê Ngọc Sơn",
+  "description": "Travel UX/UI application designed by Phạm Lê Ngọc Sơn",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

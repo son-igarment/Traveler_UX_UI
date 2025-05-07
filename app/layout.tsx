@@ -5,8 +5,10 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Travel',
-  description: 'Travel UI/UX App for Camping',
+  title: 'Traveler UX/UI by Phạm Lê Ngọc Sơn',
+  description: 'Travel UI/UX App for Camping designed by Phạm Lê Ngọc Sơn',
+  authors: [{ name: 'Phạm Lê Ngọc Sơn' }],
+  creator: 'Phạm Lê Ngọc Sơn'
 }
 
 export default function RootLayout({
